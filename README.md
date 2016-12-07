@@ -16,6 +16,7 @@ Setting up Ngrok:
 
     ./ngrok http 8000
 
+For information about how to get page access token and subscription for your page refer to this [link](https://developers.facebook.com/docs/messenger-platform/webhook-reference)
 # Quick start
 
 Run the following commands. You will need Python 3 setup
