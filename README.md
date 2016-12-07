@@ -28,6 +28,6 @@ Run the following commands. You will need Python 3 setup
     python manage.py runserver
 
 Edit the `VERIFY_TOKEN` variable in `https://github.com/Gurupradeep/FBMessengerBot/blob/master/bot/fb_bot/views.py` to include the Verify token.
-It is set to `2318934571` as default that is used in the tutorial. This can be any token as long as it matches the one you tell Facebook.
+It is set to `2318934571` as default that is used here. This can be any token as long as it matches the one you tell Facebook.
 
 Once you have your webhook setup, get your Page Access Token. Then set the `PAGE_ACCESS_TOKEN` variable in the file `https://github.com/Gurupradeep/FBMessengerBot/blob/master/bot/fb_bot/views.py` to your page access token. 
